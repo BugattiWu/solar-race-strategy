@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+.agents/
+.DS_Store
+.env
+.env.*
+.streamlit/secrets.toml
+telemetry.json
+road_cache/
+strategy.csv

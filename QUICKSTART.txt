@@ -1,0 +1,18 @@
+Solar Race Strategy — Quick Start
+
+Extract the ZIP and open the solar-race-strategy folder in a terminal or PyCharm.
+Use Python 3.13 and create a fresh virtual environment.
+
+macOS / Linux
+  python3.13 -m venv .venv
+  .venv/bin/python -m pip install -r requirements.txt
+  .venv/bin/python -m streamlit run app.py
+
+Windows
+  py -3.13 -m venv .venv
+  .venv\Scripts\python.exe -m pip install -r requirements.txt
+  .venv\Scripts\python.exe -m streamlit run app.py
+
+Open http://localhost:8501 and click Fetch / refresh weather. The included
+Seg1B.gpx is the default benchmark route. Internet access is used for
+weather and map tiles. See README.md for details about the model and inputs.

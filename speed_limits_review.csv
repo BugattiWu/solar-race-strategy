@@ -1,0 +1,51 @@
+start_km,end_km,speed_kmh,raw_limit,osm_way,road,status,source_url,edited_utc
+0.0,44.3,,,,,unknown,,
+44.3,52.0,88.51392000000001,55 mph,21605342.0,Great River Road,candidate,https://www.openstreetmap.org/way/21605342,2026-07-09T11:08:48Z
+52.0,52.5,88.51392000000001,55 mph,232194943.0,Great River Road,candidate,https://www.openstreetmap.org/way/232194943,2026-07-09T11:08:48Z
+52.5,55.7,88.51392000000001,55 mph,53059979.0,Great River Road,candidate,https://www.openstreetmap.org/way/53059979,2026-07-09T11:08:48Z
+55.7,60.0,88.51392000000001,55 mph,232194577.0,Great River Road,candidate,https://www.openstreetmap.org/way/232194577,2026-07-09T11:08:48Z
+60.0,63.2,88.51392000000001,55 mph,497849531.0,Great River Road,candidate,https://www.openstreetmap.org/way/497849531,2026-07-09T11:08:48Z
+63.2,63.3,88.51392000000001,55 mph,497849532.0,Main Street,ambiguous match — review,https://www.openstreetmap.org/way/497849532,2026-07-09T11:08:48Z
+63.3,64.7,88.51392000000001,55 mph,497849532.0,Main Street,candidate,https://www.openstreetmap.org/way/497849532,2026-07-09T11:08:48Z
+64.7,65.6,88.51392000000001,55 mph,232193877.0,Great River Road,candidate,https://www.openstreetmap.org/way/232193877,2026-07-09T11:08:48Z
+65.6,65.7,88.51392000000001,55 mph,232193884.0,Great River Road,candidate,https://www.openstreetmap.org/way/232193884,2026-07-09T11:08:48Z
+65.7,67.0,88.51392000000001,55 mph,232193873.0,Great River Road,candidate,https://www.openstreetmap.org/way/232193873,2026-07-09T11:08:48Z
+67.0,68.9,88.51392000000001,55 mph,232193883.0,Great River Road,candidate,https://www.openstreetmap.org/way/232193883,2026-07-09T11:08:48Z
+68.9,69.0,88.51392000000001,55 mph,232193888.0,Great River Road,ambiguous match — review,https://www.openstreetmap.org/way/232193888,2026-07-09T11:08:48Z
+69.0,73.2,88.51392000000001,55 mph,232090787.0,State Highway 35,candidate,https://www.openstreetmap.org/way/232090787,2026-07-09T11:08:48Z
+73.2,73.3,88.51392000000001,55 mph,232090786.0,State Highway 35,ambiguous match — review,https://www.openstreetmap.org/way/232090786,2026-07-09T11:08:48Z
+73.3,77.2,88.51392000000001,55 mph,232090792.0,State Highway 35,candidate,https://www.openstreetmap.org/way/232090792,2026-07-09T11:08:48Z
+77.2,81.2,88.51392000000001,55 mph,306337033.0,Great River Road,candidate,https://www.openstreetmap.org/way/306337033,2026-07-09T11:08:48Z
+81.2,87.6,88.51392000000001,55 mph,232090376.0,Great River Road,candidate,https://www.openstreetmap.org/way/232090376,2026-07-09T11:08:48Z
+87.6,90.9,88.51392000000001,55 mph,306396809.0,Great River Road,candidate,https://www.openstreetmap.org/way/306396809,2026-07-09T11:08:48Z
+90.9,94.2,88.51392000000001,55 mph,237888738.0,Great River Road,candidate,https://www.openstreetmap.org/way/237888738,2026-07-09T11:08:48Z
+94.2,94.7,88.51392000000001,55 mph,730284946.0,Great River Road,candidate,https://www.openstreetmap.org/way/730284946,2026-07-09T11:08:48Z
+94.7,98.1,88.51392000000001,55 mph,231634677.0,Great River Road,candidate,https://www.openstreetmap.org/way/231634677,2026-07-09T11:08:48Z
+98.1,102.2,,,,,unknown,,
+102.2,102.3,40.2336,25 mph,39364691.0,East Wisconsin Street,candidate,https://www.openstreetmap.org/way/39364691,2026-07-01T11:59:42Z
+102.3,102.5,40.2336,25 mph,39364693.0,East Wisconsin Street,candidate,https://www.openstreetmap.org/way/39364693,2026-07-01T11:59:42Z
+102.5,102.7,40.2336,25 mph,39364692.0,East Wisconsin Street,candidate,https://www.openstreetmap.org/way/39364692,2026-07-01T11:59:42Z
+102.7,102.8,40.2336,25 mph,39364692.0,East Wisconsin Street,ambiguous match — review,https://www.openstreetmap.org/way/39364692,2026-07-01T11:59:42Z
+102.8,103.1,88.51392000000001,55 mph,39364765.0,US 18;WI 60,candidate,https://www.openstreetmap.org/way/39364765,2026-07-01T11:59:42Z
+103.1,103.4,88.51392000000001,55 mph,303130506.0,US 18;WI 60,candidate,https://www.openstreetmap.org/way/303130506,2026-07-01T11:59:42Z
+103.4,104.0,88.51392000000001,55 mph,39364766.0,East Iowa Street,candidate,https://www.openstreetmap.org/way/39364766,2026-07-01T11:59:42Z
+104.0,104.5,88.51392000000001,55 mph,171198216.0,US 18;WI 60,candidate,https://www.openstreetmap.org/way/171198216,2026-07-01T11:59:42Z
+104.5,104.8,72.42048,45 mph,171198215.0,US 18,candidate,https://www.openstreetmap.org/way/171198215,2026-06-11T14:20:41Z
+104.8,105.9,72.42048,45 mph,231634680.0,US 18,candidate,https://www.openstreetmap.org/way/231634680,2026-06-11T14:20:41Z
+105.9,107.0,88.51392000000001,55 mph,33403999.0,US 18,candidate,https://www.openstreetmap.org/way/33403999,2026-06-11T14:20:41Z
+107.0,107.1,88.51392000000001,55 mph,33403997.0,US 18,ambiguous match — review,https://www.openstreetmap.org/way/33403997,2026-06-11T14:20:41Z
+107.1,107.2,88.51392000000001,55 mph,33403997.0,US 18,candidate,https://www.openstreetmap.org/way/33403997,2026-06-11T14:20:41Z
+107.2,109.2,88.51392000000001,55 mph,33403838.0,US 18,candidate,https://www.openstreetmap.org/way/33403838,2026-06-11T14:20:41Z
+109.2,110.9,88.51392000000001,55 mph,52434407.0,US 18,candidate,https://www.openstreetmap.org/way/52434407,2026-06-11T14:20:41Z
+110.9,111.0,88.51392000000001,55 mph,51388909.0,US 18,ambiguous match — review,https://www.openstreetmap.org/way/51388909,2026-06-11T14:20:41Z
+111.0,117.9,88.51392000000001,55 mph,51388909.0,US 18,candidate,https://www.openstreetmap.org/way/51388909,2026-06-11T14:20:41Z
+117.9,131.6,88.51392000000001,55 mph,15863792.0,US 52,candidate,https://www.openstreetmap.org/way/15863792,2026-06-12T19:23:12Z
+131.6,133.8,88.51392000000001,55 mph,15863795.0,US 52,candidate,https://www.openstreetmap.org/way/15863795,2026-06-12T19:23:12Z
+133.8,135.3,,,,,unknown,,
+135.3,136.9,88.51392000000001,55 mph,15863779.0,US 52,candidate,https://www.openstreetmap.org/way/15863779,2026-06-12T19:23:12Z
+136.9,138.1,88.51392000000001,55 mph,15863812.0,US 52,candidate,https://www.openstreetmap.org/way/15863812,2026-06-12T19:23:12Z
+138.1,139.0,88.51392000000001,55 mph,15863814.0,US 52,candidate,https://www.openstreetmap.org/way/15863814,2026-06-12T19:23:12Z
+139.0,148.6,88.51392000000001,55 mph,15863809.0,US 52,candidate,https://www.openstreetmap.org/way/15863809,2026-06-12T19:23:12Z
+148.6,149.9,88.51392000000001,55 mph,15862434.0,US 52,candidate,https://www.openstreetmap.org/way/15862434,2026-06-12T19:23:12Z
+149.9,150.8,56.327040000000004,35 mph,993256067.0,US 52,candidate,https://www.openstreetmap.org/way/993256067,2026-06-12T19:23:12Z
+150.8,563.5251670668594,,,,,unknown,,

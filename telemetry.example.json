@@ -1,0 +1,12 @@
+{
+  "latitude": 43.851797,
+  "longitude": -91.266569,
+  "battery_wh": 2000,
+  "timestamp": "2026-11-10T09:00:00-06:00",
+  "route_km": 0,
+  "speed_kmh": 60,
+  "array_power_w": 900,
+  "motor_temperature_c": 55,
+  "available_motor_power_w": 4000,
+  "stop_remaining_s": 0
+}
